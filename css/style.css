@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;800&display=swap");
+body {
+  background-color: #171717;
+  font-family: 'Poppins', sans-serif;
+}
+
+.main-navbar .border {
+  border: 1px solid #5d5d5d !important;
+}
+
+.main-navbar .nav-link {
+  margin-left: 50px;
+}
+
+.main-navbar .nav-link,
+.main-navbar .navbar-brand {
+  color: #f3f3f3;
+}
+
+.main-navbar .first {
+  border-right: 1px solid #5d5d5d !important;
+  padding-right: 30px;
+}
+
+.main-navbar .last {
+  border-left: 1px solid #5d5d5d !important;
+  padding-left: 30px;
+}
+
+.hero-section .border {
+  border: 1px solid #5d5d5d !important;
+}
+
+.hero-section h1 {
+  color: #f3f3f3;
+  font-weight: 500;
+}
+
+.hero-section p {
+  color: #f3f3f3;
+}
+
+.hero-section a {
+  text-decoration: none;
+  color: #f3f3f3;
+  border-bottom: 2px solid #f3f3f3;
+  padding-bottom: 5px;
+}
+
+.recent-work .border {
+  border: 1px solid #5d5d5d !important;
+}
+
+.recent-work h1 {
+  color: #f3f3f3;
+  font-weight: 500;
+}
+
+.recent-work p {
+  color: #f3f3f3;
+}
+
+.recent-work .card {
+  background-color: #5d5d5d;
+}
+
+.recent-work .card li {
+  background-color: #171717;
+  color: #f3f3f3;
+}
+
+.recent-work .card .list-group-item {
+  border: 1px solid #5d5d5d;
+}
+
+.about-me .border {
+  border: 1px solid #5d5d5d !important;
+}
+
+.about-me h1 {
+  color: #f3f3f3;
+  font-weight: 500;
+}
+
+.about-me p {
+  color: #f3f3f3;
+}
+
+.services .border {
+  border: 1px solid #5d5d5d !important;
+}
+
+.services h1 {
+  color: #f3f3f3;
+  font-weight: 500;
+}
+
+.services h5 {
+  color: #f3f3f3;
+}
+
+.services p {
+  color: #f3f3f3;
+  font-size: 13px;
+  margin-bottom: 0 !important;
+}
+
+.services .extra-sm {
+  font-size: 10.6px;
+}
+
+.services .dark-bgc {
+  background-color: #0c0a0a;
+}
+
+.process .border {
+  border: 1px solid #5d5d5d !important;
+}
+
+.process h1, .process h5, .process h6 {
+  color: #f3f3f3;
+  font-weight: 500;
+}
+
+.process .card-body {
+  background-color: #0c0a0a;
+}
+
+.process p {
+  color: #f3f3f3;
+}
+
+.get-start .border {
+  border: 1px solid #5d5d5d !important;
+}
+
+.get-start h1 {
+  color: #f3f3f3;
+  font-weight: 500;
+}
+
+.get-start a {
+  text-decoration: none;
+  color: #f3f3f3;
+  border-bottom: 2px solid #f3f3f3;
+}
+
+.footer .border {
+  border: 1px solid #5d5d5d !important;
+}
+
+.footer ul {
+  margin-bottom: 0;
+}
+
+.footer li {
+  color: #f3f3f3;
+}

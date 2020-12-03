@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;800&display=swap');
+
+@import "colors";
+
+body {
+  background-color: $primary-color;
+  font-family: 'Poppins', sans-serif;
+}
+
+// -------------------- Start Navbar --------------------
+
+.main-navbar {
+  .border {
+    border: 1px solid $secondary-color !important;
+  }
+
+  .nav-link {
+    margin-left: 50px;
+  }
+
+  .nav-link,
+  .navbar-brand {
+    color: $heading-color;
+  }
+  
+  .first {
+    border-right: 1px solid $secondary-color !important;
+    padding-right: 30px;
+  }
+
+  .last {
+    border-left: 1px solid $secondary-color !important;
+    padding-left: 30px;
+  }
+}
+
+// -------------------- End Navbar --------------------
+
+// -------------------- Start Hero Section --------------------
+
+.hero-section {
+  .border {
+    border: 1px solid $secondary-color !important;
+  }
+
+  h1 {
+    color: $heading-color;
+    font-weight: 500;
+  }
+
+  p {
+    color: $heading-color;
+  }
+
+  a {
+    text-decoration: none;
+    color: $heading-color;
+    border-bottom: 2px solid $heading-color;
+    padding-bottom: 5px;
+  }
+
+}
+
+// -------------------- End Hero Section --------------------
+
+// -------------------- Start Recent Wrok --------------------
+
+.recent-work {
+  .border {
+    border: 1px solid $secondary-color !important;
+  }
+
+  h1 {
+    color: $heading-color;
+    font-weight: 500;
+  }
+
+  p {
+    color: $heading-color;
+  }
+
+  .card {
+    background-color: $secondary-color;
+    li {
+      background-color: $primary-color;
+      color: $heading-color;
+    }
+    
+    .list-group-item {
+      border: 1px solid $secondary-color;
+    }
+  }
+}
+
+// -------------------- End Recent Wrok --------------------
+
+// -------------------- Start Recent Wrok --------------------
+
+.about-me {
+  .border {
+    border: 1px solid $secondary-color !important;
+  }
+
+  h1 {
+    color: $heading-color;
+    font-weight: 500;
+  }
+
+  p {
+    color: $heading-color;
+  }
+}
+
+// -------------------- End Recent Wrok --------------------
+
+// -------------------- Start Services --------------------
+
+.services {
+  .border {
+    border: 1px solid $secondary-color !important;
+  }
+
+  h1 {
+    color: $heading-color;
+    font-weight: 500;
+  }
+
+  h5 {
+    color: $heading-color;
+  }
+
+  p {
+    color: $heading-color;
+    font-size: 13px;
+    margin-bottom: 0 !important;
+  }
+
+  .extra-sm {
+    font-size: 10.6px;
+  }
+
+  .dark-bgc {
+    background-color: #0c0a0a;
+  }
+}
+
+// -------------------- End Services --------------------
+
+// -------------------- Start Process --------------------
+
+.process {
+  .border {
+    border: 1px solid $secondary-color !important;
+  }
+
+  h1, h5, h6 {
+    color: $heading-color;
+    font-weight: 500;
+  }
+
+  .card-body {
+    background-color: #0c0a0a;
+  }
+
+  p {
+    color: $heading-color;
+  }
+
+}
+
+// -------------------- End Process --------------------
+
+// -------------------- End Process --------------------
+
+.get-start {
+  .border {
+    border: 1px solid $secondary-color !important;
+  }
+
+  h1 {
+    color: $heading-color;
+    font-weight: 500;
+  }
+
+  a {
+    text-decoration: none;
+    color: $heading-color;
+    border-bottom: 2px solid $heading-color;
+  }
+}
+
+// -------------------- End Process --------------------
+
+// -------------------- Start Footer --------------------
+
+.footer {
+  .border {
+    border: 1px solid $secondary-color !important;
+  }
+  
+  ul {
+    margin-bottom: 0;
+  }
+  li {
+    color: $heading-color;
+  }
+}
+
+// -------------------- End Footer --------------------
